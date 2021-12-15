@@ -1,0 +1,11 @@
+{
+  "workbench.colorTheme": "Material Theme Ocean High Contrast",
+  "workbench.iconTheme": "material-icon-theme",
+  "tabnine.experimentalAutoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "window.zoomLevel": 1,
+  "explorer.confirmDelete": false,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "material-icon-theme.activeIconPack": "react_redux"
+}
